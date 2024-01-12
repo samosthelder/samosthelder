@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samosthelder
-- 👀 I’m interested in computing
+- 👋 Hi, I’m Sam
+- 👀 I’m interested in computing and gardening 
 - 🌱 I’m currently learning HTML,CSS,JS,Python,C#
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sama16@hotmail.co.uk
